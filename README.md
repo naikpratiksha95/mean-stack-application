@@ -1,6 +1,6 @@
 # mean-stack-application
 
-Software Requirements:
+# Software Requirements:
 
 Download and Install mongoDB: 
 
@@ -21,7 +21,7 @@ Download and install Robo3T to view the activity in database:
 https://robomongo.org/download
 
 
-MEAN-APP Execution
+# MEAN-APP Execution
 
 --Run Api locally---
 
